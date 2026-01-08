@@ -35,6 +35,9 @@ I'm a <b>Mining Technician</b> and currently an undergraduate student in <b>Geog
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
         <br>
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerPoint-D04423?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+        <br>
         <img src="https://img.shields.io/badge/Google_Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
       </div>
     </td>
