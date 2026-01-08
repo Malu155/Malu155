@@ -48,12 +48,12 @@ I'm a <b>Mining Technician</b> and currently an undergraduate student in <b>Geog
 
 ### Conecte-se comigo!
 
-<a href="LINK_DO_LATTES_DELA_AQUI" target="_blank">
+<a href="http://lattes.cnpq.br/7191932824994596" target="_blank">
   <img src="https://img.shields.io/badge/Currículo_Lattes-0056D2?style=for-the-badge&logo=lattes&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/LINK_DO_LINKEDIN_DELA" target="_blank">
+<a href="https://www.linkedin.com/in/maria-luiza-172224210/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:EMAIL_DELA@GMAIL.COM">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEUEMAIL@GMAIL.COM" />
+<a href="mailto:silva.luiza3@escolar.ifrn.edu.br">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
